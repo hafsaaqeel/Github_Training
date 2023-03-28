@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contact</name>
+   <tag></tag>
+   <elementGuidId>cab91104-34ec-48fe-82f8-aad21398bcb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu-primary-menu-1']/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-primary-menu-1 > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-24.last > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f204e9ad-2dce-4f82-bae4-3cce2bbd15a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://hamsol.com/contact-us/</value>
+      <webElementGuid>f89a1c8d-f16c-4dbd-9d47-2ebf3b90f270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact</value>
+      <webElementGuid>f1cb4324-3028-4bbc-82aa-4a65b1748e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-primary-menu-1&quot;)/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-24 last&quot;]/a[1]</value>
+      <webElementGuid>eddf5c62-1f67-4374-aa9b-c12581cb925c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu-primary-menu-1']/li[5]/a</value>
+      <webElementGuid>029afaae-8433-4a68-83ed-a16572a952b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Contact')])[2]</value>
+      <webElementGuid>20d1355b-ee65-48a1-b802-6ef7d31c17c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[2]/following::a[1]</value>
+      <webElementGuid>c411453c-9188-4758-955f-879bfcdcb595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[2]/following::a[2]</value>
+      <webElementGuid>d63d7e42-5225-4a2a-91e5-76ee80783f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Info'])[1]/preceding::a[1]</value>
+      <webElementGuid>8f67d870-5771-43c8-9671-b52075941ad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://hamsol.com/contact-us/')])[2]</value>
+      <webElementGuid>f67f37fa-fbe1-4cf9-8d79-c38c1e52bc66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nav/ul/li[5]/a</value>
+      <webElementGuid>2cc9b12f-fe19-43cc-b6ed-8ab86a3bd41a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://hamsol.com/contact-us/' and (text() = 'Contact' or . = 'Contact')]</value>
+      <webElementGuid>a770fa3f-b6e1-4c23-906f-90bce761881c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

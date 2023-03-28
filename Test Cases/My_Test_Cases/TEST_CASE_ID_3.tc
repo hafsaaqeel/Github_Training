@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is my new manual scritp recording demo</description>
+   <name>TEST_CASE_ID_3</name>
+   <tag>@manualrecording, @uitesting</tag>
+   <comment></comment>
+   <testCaseGuid>b3ddd8bb-c4b6-42fe-a65f-dfd360c33ca8</testCaseGuid>
+</TestCaseEntity>

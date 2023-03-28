@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "618C74E0E4FF6865088B4C022358E38D",
+  "keywordClasses": [
+    {
+      "name": "StringCustomKeyword",
+      "keywordMethods": [
+        {
+          "name": "helloUser",
+          "parameters": [
+            {
+              "name": "User",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

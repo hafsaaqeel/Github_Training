@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is my last recording demo of katalon web testing</description>
+   <name>Test_Case_ID_2</name>
+   <tag>@webtesting, @katalontesting</tag>
+   <comment></comment>
+   <testCaseGuid>b0d43604-a212-400d-9ef4-e08f6a4f8533</testCaseGuid>
+</TestCaseEntity>

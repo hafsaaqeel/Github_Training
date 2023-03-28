@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F074AAF2DF0C0D8B3BEFE7AD6F8ABEBE",
+  "keywordClasses": [
+    {
+      "name": "classnewcostom",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
